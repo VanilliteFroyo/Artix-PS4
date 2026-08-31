@@ -1,11 +1,5 @@
-### Artix Linux for PS4
+## Artix Linux for PS4
 
 Uses `dinit` as the init system. Includes an XFCE desktop.
 
-<s>Made this kinda quickly tbh, there's a good few things missing.
-
-Automatic date and time sync, for example :3
-
-So you'll have to do that yourself, congrats.</s>
-
-Should be mostly complete now. :3
+New `base` version for those who want to do everything themselves, but don't feel like making a base Artix rootfs.
